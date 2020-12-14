@@ -1,3 +1,7 @@
+from unittest.mock import MagicMock
+import sys
+sys.modules["xgboost"] = MagicMock()
+
 from explainerdashboard import RegressionExplainer, ExplainerDashboard
 
 explainer = RegressionExplainer.from_file("explainer.joblib")
