@@ -1,0 +1,5 @@
+.idea
+__pycache__
+some_error.txt
+data_v3_enc.csv
+dec_tree_v3.joblib
