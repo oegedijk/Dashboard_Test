@@ -1,2 +1,2 @@
-explainerdashboard
+explainerdashboard=0.2.15
 gunicorn
