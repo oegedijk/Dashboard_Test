@@ -1,1 +1,1 @@
-pip uninstall -y xgboost
+pip uninstall -y xgboost pyspark
