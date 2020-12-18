@@ -1,2 +1,2 @@
-explainerdashboard==0.2.16.1
+explainerdashboard==0.2.16.2
 gunicorn
